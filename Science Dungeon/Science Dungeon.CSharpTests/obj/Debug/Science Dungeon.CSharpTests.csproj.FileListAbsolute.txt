@@ -1,0 +1,13 @@
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\Science Dungeon.CSharpTests.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\Science Dungeon.CSharpTests.pdb
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\UnityEngine.UI.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\UnityEngine.xml
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\UnityEngine.UI.xml
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\bin\Debug\UnityEditor.xml
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\obj\Debug\Science Dungeon.CSharpTests.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\obj\Debug\Science Dungeon.CSharpTests.dll
+C:\Users\Public\Documents\Unity Projects\Science Dungeon\Science Dungeon.CSharpTests\obj\Debug\Science Dungeon.CSharpTests.pdb

@@ -1,0 +1,35 @@
+# Blender3D MTL File: boo.blend
+# Material Count: 3
+newmtl Material.033_boo_grp.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.471875 0.481250 0.796875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boo_grp.png
+
+
+newmtl Material.032_boo_grp.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.796875 0.796875 0.796875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boo_grp.png
+
+
+newmtl Material.031_boo_grp.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.781250 0.790625 0.796875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boo_grp.png
+
+
