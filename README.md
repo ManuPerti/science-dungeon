@@ -5,7 +5,7 @@ Science Dungeon is an educational game to easy learning of technical concepts.
 Science Dungeon is created using Unity 3D engine that provide a whole framework to include and manipulate game objects to create a game scene. All logic is implemented by attaching scripts in C# to each Gameobject involved.
 
 ## Execute instructions
-You have a installer version of Science Dungeon for Windows in the **dist** folder.
+You have a installer version of Science Dungeon for Windows in the root folder.
 Nevertheless you can build your own distribution for any available platform (Windows, Linux, MAC, Android...) if you compile the project with the Unity3D framework.
 
 ## Game instructions
